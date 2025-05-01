@@ -6,10 +6,10 @@ This project automates two scenarios on the [SauceDemo](https://www.saucedemo.co
 
 ## Automated Scenarios
 
-1. Login with valid credentials
+1. Login with valid credentials.
    Tests that a user can successfully log in using valid username and password
 
-2. Sort products by price (Low to High)
+2. Sort products by price (Low to High).
    Ensures that the product sorting feature correctly arranges items in ascending order of price
 
 ---
@@ -20,7 +20,7 @@ This project automates two scenarios on the [SauceDemo](https://www.saucedemo.co
 | Type       | Tool / Language               |
 |------------|-------------------------------|
 | Language   | Python 3.10                   |
-| Framework  | Selenium WebDriver (v4.20)    |
+| Framework  | Selenium WebDriver            |
 | Test Runner| Pytest                        |
 | Structure  | Page Object Model (POM)       |
 ---
