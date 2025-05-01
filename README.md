@@ -31,7 +31,7 @@ This project automates two scenarios on the [SauceDemo](https://www.saucedemo.co
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/saucedemo-automation.git
+git clone https://github.com/walidaud/yassir_assessment_part2.git
 ```
 ---
 
@@ -41,7 +41,7 @@ git clone https://github.com/your-username/saucedemo-automation.git
 ```bash
 python -m venv venv
 venv\Scripts\activate
-cd YASSIR Asessment part 2
+cd yassir_assessment_part2
 ```
 ---
 
